@@ -11,7 +11,6 @@ Steps to run the sample
 
 4) Open the URL on your browser (ex:http://127.0.0.1:8080 ) 
 
-
-
+<img src="https://github.com/buraksocure/SocureDocVWebSDKJSLib_AngularSample_1.8/blob/ddb78f6bc1a0d3542022e0b455d84e2ad0a39dde/demo.png" />
 
 
